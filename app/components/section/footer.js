@@ -18,9 +18,9 @@ const Footer = React.createClass({
                         <SocialMedia ulClass='social-links' profiles={this.props.content.profiles}/>
                         <ul className='copyright'>
                             <li>
-                                This site is developed in React.js by&nbsp;
+                                This site template is developed by&nbsp;
                                 <a
-                                    href='https://suddi.github.io'
+                                    href='https://github.com/suddi'
                                     title='Sudharshan Ravindran'
                                     target='_blank'
                                     rel='noopener noreferrer'>
@@ -31,7 +31,13 @@ const Footer = React.createClass({
                                     title='Styleshout'
                                     target='_blank'
                                     rel='noopener noreferrer'>
-                                    Styleshout
+                                    Styleshout 
+                                </a> Modified by&nbsp;
+                                <a
+                                    href='https://rasyad.github.io'
+                                    title='Reno'
+                                    target='_blank'>
+                                    Reno
                                 </a>
                             </li>
                         </ul>

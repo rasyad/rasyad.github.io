@@ -63,7 +63,7 @@ const Portfolio = React.createClass({
             <section id='portfolio'>
                 <div className='row'>
                     <div className='twelve columns collapsed'>
-                        <h1>Portfolio</h1>
+                        <h1>Photos taken by me</h1>
                         <div id='portfolio-wrapper' className='bgrid-quarters s-bgrid-thirds cf'>
                             {portfolio.map(function (entry, index) {
                                 return (

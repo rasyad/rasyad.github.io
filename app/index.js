@@ -18,8 +18,8 @@ function getNavigation() {
         work: 'Work',
         education: 'Education',
         skill: 'Skills',
-        portfolio: 'Portfolio',
-        testimonials: 'References'
+        portfolio: 'Gallery',
+        
     };
 }
 

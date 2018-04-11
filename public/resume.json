@@ -1,43 +1,47 @@
 {
     "basics": {
-        "name": "<FULL_NAME>",
+        "name": "Reno Rasyad",
         "label": "<PROFESSION>",
-        "picture": "<PHOTO>",
-        "email": "<EMAIL_ADDRESS>",
-        "phone": "<PHONE_NUMBER>",
+        "picture": "/public/images/reno.jpg",
+        "email": "reno@alumni.itb.ac.id",
+        "phone": "0856-2173-080",
         "website": "<WEBSITE>",
         "summary": [
-            "<SUMMARY_1>",
-            "<SUMMARY_2>",
-            "<SUMMARY_3>"
+            "A person who loves to swim and read fiction books. Have interests in web design, UI/UX design."
+            
         ],
         "location": {
             "address": "<ADDRESS>",
             "postalCode": "<POSTAL_CODE>",
-            "city": "<CITY>",
-            "countryCode": "<COUNTRY>",
+            "city": "Bandung",
+            "countryCode": "Indonesia",
             "region": "<REGION>"
         },
         "profiles": [
             {
-                "network": "<NETWORK>",
+                "network": "email",
                 "username": "<USERNAME>",
-                "url": "<URL>"
+                "url": "mailto:reno@alumni.itb.ac.id"
+            },
+            {
+                "network": "linkedin",
+                "username": "<USERNAME>",
+                "url": "https://www.linkedin.com/in/reno-rasyad-8b871472/"
             }
         ]
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "summary": "<SUMMARY>",
+            "company": "PT. INTI",
+            "position": "Intern",
+            "website": "inti.co.id",
+            "startDate": "2014-06",
+            "endDate": "2014-07",
+            "summary": "Designing relational database for online recruitment website",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                
+                
+                
             ]
         }
     ],
@@ -58,17 +62,15 @@
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
+            "institution": "Institut Teknologi Bandung",
+            "area": "Computer Science/Informatics",
             "studyType": "<STUDY_TYPE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
-            "summary": "<SUMMARY>",
+            "startDate": "2011-08",
+            "endDate": "2017-10",
+            "gpa": "2.73",
+            "summary": "",
             "courses": [
-                "<COURSE_1>",
-                "<COURSE_2>",
-                "<COURSE_3>"
+                "Final Project: Automatic and Real Time Face Recognition Application for Attendance System using Webcam and OpenCV"
             ]
         }
     ],
@@ -82,35 +84,183 @@
     ],
     "projects": [
         {
-            "name": "<PUBLICATION_NAME>",
-            "publisher": "<PUBLISHER>",
-            "category": "<CATEGORY>",
+            "name": "Sawarna Beach",
+            "publisher": "Reno",
+            "category": "beach",
             "releaseDate": "<RELEASE_DATE>",
-            "website": "<WEBSITE>",
-            "summary": "<SUMMARY>",
+            "website": "s",
+            "summary": "Sawarna is located in west of Pelabuhan Ratu",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "/public/images/sawarna.jpg",
+                "thumb": "/public/images/thumbs/sawarna.jpg"
             },
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
+                "beach",
+                "sawarna"
+            ]
+        },
+        {
+            "name": "Situ Cileunca",
+            "publisher": "Reno",
+            "category": "lake",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Situ Cileunca is located in Pangalengan, Kabupaten Bandung",
+            "image": {
+                "modal": "/public/images/cileunca.jpg",
+                "thumb": "/public/images/thumbs/cileunca.jpg"
+            },
+            "keywords": [
+                "lake",
+                "cileunca"
+            ]
+        },
+        {
+            "name": "Situ Cileunca",
+            "publisher": "Reno",
+            "category": "lake",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Situ Cileunca is located in Pangalengan, Kabupaten Bandung",
+            "image": {
+                "modal": "/public/images/cileunca2.jpg",
+                "thumb": "/public/images/thumbs/cileunca2.jpg"
+            },
+            "keywords": [
+                "lake",
+                "cileunca"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana2.jpg",
+                "thumb": "/public/images/thumbs/sukawana2.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana1.jpg",
+                "thumb": "/public/images/thumbs/sukawana1.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana3.jpg",
+                "thumb": "/public/images/thumbs/sukawana3.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
             ]
         }
     ],
     "skills": [
         {
-            "title": "<DESCRIPTION_TITLE>",
+            "title": "Programming Languages",
             "description": [
-                "<DESCRIPTION_1>",
-                "<DESCRIPTION_2>",
-                "<DESCRIPTION_3>"
+               
             ],
             "skillDetails": [
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
+                    "name": "C/C++",
+                    "level": "85",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "HTML/CSS",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Javascript",
+                    "level": "70",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": " Languages",
+            "description": [
+               
+            ],
+            "skillDetails": [
+                {
+                    "name": "Indonesian",
+                    "level": "95",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "English",
+                    "level": "90",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Sundanese",
+                    "level": "85",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Japanese",
+                    "level": "60",
                     "keywords": [
                         "<KEYWORD_1>",
                         "<KEYWORD_2>",
@@ -122,7 +272,7 @@
     ],
     "languages": [
         {
-            "name": "<LANGUAGE_NAME>",
+            "name": "English",
             "level": "<LANGUAGE_LEVEL>"
         }
     ],
@@ -138,10 +288,11 @@
     ],
     "references": [
         {
-            "name": "<REFERENCE_NAME>",
+            "name": "John Adams",
             "position": "<POSITION>",
             "company": "<COMPANY>",
-            "reference": "<SUMMARY>"
+            "reference": "Every problem is an opportunity in disguise"
         }
     ]
+
 }
